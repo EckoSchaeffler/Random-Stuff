@@ -23,7 +23,7 @@
 
 ## Parts bought on the SL Grid
 
-Sassy Pony AO from Real Restraints  L$600
+Sassy Pony AO from [Real Restraints](http://maps.secondlife.com/secondlife/Pak/128/128/2)  L$600
 
 ## How To
 
