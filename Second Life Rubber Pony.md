@@ -21,6 +21,8 @@
 
 [Eva's Kemono Piercings (Rei's Boobs) BOXED 1.0](https://marketplace.secondlife.com/s/Evas-Kemono-Piercings-Reis-Boobs-BOXED-10/7288016) L$50
 
+Complete: ~ L$3700
+
 ## Parts bought on the SL Grid
 
 Sassy Pony AO from [Real Restraints](http://maps.secondlife.com/secondlife/Pak/128/128/2)  L$600
