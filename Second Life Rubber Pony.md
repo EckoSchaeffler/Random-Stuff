@@ -125,4 +125,4 @@ Environment: 51
 
 1. Equip Sassy Pony AO
 2. Equip Stomp Once (/i) and Stomp Twice (/u) Gestures
-3. Equip Lerims Pony Bow Hud
+3. Equip Lerims Pony Bow Hud (to be provided by Belphexia)
