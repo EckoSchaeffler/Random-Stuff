@@ -78,15 +78,17 @@ Environment: 51
 
 ### 6. Head
 
-1. Equip Paws Horse Latex Isolation Hood F 1.0
-2. Right-Click touch the Hood to open up Touch Menu
-3. Enter 'Apps' -> 'Muzzle' Menu, Set Hood to Blindfold On and Blinding Off.
-4. Edit Hood to remove textures, change colour to Blueish-Black and add shininess on all visible rubber parts.
-5. Edit Hood to move to the following position: <-0.0973101, -5.78836e-05, 0.0873507>
-6. Equip Paws Horse Bridle F 1.0
-7. Edit Bridle to turn transparency on blinders and forehead parts to 100%, or remove them completely.
-8. Edit Bridle to remove textures, change colour to Blueish-Black and add shininess on all visible rubber parts.
-9. Edit Bridle to move to the following position: <-0.0978685, -4.62979e-07, 0.102376>
+1. Rez Paws Horse Latex Isolation Hood F 1.0 on the ground
+2. Rez Paws Horse Bridle F 1.0 on the ground
+3. Edit Hood to remove textures, change colour to Blueish-Black and add shininess on all visible rubber parts.
+4. Edit Hood to remove all script and other content in the 'Content' tab of the edit dialog.
+5. Edit Bridle to turn transparency on blinders and forehead parts to 100%, or remove them completely.
+6. Edit Bridle to remove textures, change colour to Blueish-Black and add shininess on all visible rubber parts.
+7. Move Bridle and Hood into the same position, before moving either to bring them into the same position.
+8. Select first Hood, then Bridle and link them with 'Ctrl-L'. (Optional: Rename Bridle Hood)
+9. Take Resulting Bridle Hood
+10. Equip Bridle Hood.
+11. Edit Bridle Hood to move to the following position: <-0.0978685, 0, 0.102376>
 
 ### 7. Collar
 
@@ -123,8 +125,14 @@ Environment: 51
 3. Edit Tail to resize to the following dimensions: <0.0472866, 0.0472866, 0.0472866>
 4. Edit Tail to move to the following position: <-0.0384981, 3.63798e-12, 0.304472>
 5. Edit Tail to the following Rotation: <270, 0, 59>
+
 ### 11. Other
 
 1. Equip Sassy Pony AO
 2. Equip Stomp Once (/i) and Stomp Twice (/u) Gestures
 3. Equip Lerims Pony Bow Hud (to be provided by Belphexia)
+
+
+#### Credits
+
+Thank you Fedotia for her help with setting everything up.
