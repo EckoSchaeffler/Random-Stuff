@@ -81,14 +81,15 @@ Environment: 51
 1. Rez Paws Horse Latex Isolation Hood F 1.0 on the ground
 2. Rez Paws Horse Bridle F 1.0 on the ground
 3. Edit Hood to remove textures, change colour to Blueish-Black and add shininess on all visible rubber parts.
-4. Edit Hood to remove all script and other content in the 'Content' tab of the edit dialog.
-5. Edit Bridle to turn transparency on blinders and forehead parts to 100%, or remove them completely.
-6. Edit Bridle to remove textures, change colour to Blueish-Black and add shininess on all visible rubber parts.
-7. Move Bridle and Hood into the same position, before moving either to bring them into the same position.
-8. Select first Hood, then Bridle and link them with 'Ctrl-L'. (Optional: Rename Bridle Hood)
-9. Take Resulting Bridle Hood
-10. Equip Bridle Hood.
-11. Edit Bridle Hood to move to the following position: <-0.0978685, 0, 0.102376>
+4. Edit Hood to chamge transparency option of the hood with lenses to 100% and the faceless hood to 0%.
+5. Edit Hood to remove all script and other content in the 'Content' tab of the edit dialog.
+6. Edit Bridle to turn transparency on blinders and forehead parts to 100%, or remove them completely.
+7. Edit Bridle to remove textures, change colour to Blueish-Black and add shininess on all visible rubber parts.
+8. Move Bridle and Hood into the same position, before moving either to bring them into the same position.
+9. Select first Hood, then Bridle and link them with 'Ctrl-L'. (Optional: Rename Bridle Hood)
+10. Take Resulting Bridle Hood
+11. Equip Bridle Hood.
+12. Edit Bridle Hood to move to the following position: <-0.0978685, 0, 0.102376>
 
 ### 7. Collar
 
