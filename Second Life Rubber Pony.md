@@ -138,6 +138,15 @@ Environment: 51
 After completion, the scripts and other items can be removed from the body, feet, corset, chest and piercings.
 They can also be rezed outside the body and linked into a single object for complexity reduction and to create a seamless item when worn.
 
+## Some Basic Rules for Ponies/Pony Body Language
+
+Need a bathroom break? You get to rub your thighs together and give me needy glances
+RL come in the way? Face away and kneel down
+Sleep o'clock? Ponies can yawn
+To answer 'Yes': One Stomp (/i)
+To answer 'No': Two Stomps (/u)
+And since you stomp more than twice, as a personal thing I train them to stomp thrice when a question cannot be answered by aye or nay
+Four stomps being the safe word
 
 #### Credits
 
