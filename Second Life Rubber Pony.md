@@ -133,6 +133,11 @@ Environment: 51
 2. Equip Stomp Once (/i) and Stomp Twice (/u) Gestures
 3. Equip Lerims Pony Bow Hud (to be provided by Belphexia)
 
+### 12. Mods
+
+After completion, the scripts and other items can be removed from the body, feet, corset, chest and piercings.
+They can also be rezed outside the body and linked into a single object for complexity reduction and to create a seamless item when worn.
+
 
 #### Credits
 
