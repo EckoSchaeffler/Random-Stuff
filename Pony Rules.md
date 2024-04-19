@@ -13,22 +13,22 @@ Your master/mistress is not a telepath, so any emoting should be limited to acti
 When following your master/mistress it depends on the number of other ponies around how you are expected to follow and how to stand behind your master/mistress.
 You WILL have to stay in easy groping distance to your master/mistress.
 
-One Pony: 
-		`P M`
-Two Ponies:
-		`P  `
-		`  M`
-		`P  `
-Three Ponies:
-		`P  `
-		`P M`
-		`P  `
-Four Ponies:
-		`P  `
-		`P  `
-		`  M`
-		`P  `
-		`P  `
+One Pony:\
+		`P M`\
+Two Ponies:\
+		`P  `\
+		`  M`\
+		`P  `\
+Three Ponies:\
+		`P  `\
+		`P M`\
+		`P  `\
+Four Ponies:\
+		`P  `\
+		`P  `\
+		`  M`\
+		`P  `\
+		`P  `\
 
 ## Body language
 
