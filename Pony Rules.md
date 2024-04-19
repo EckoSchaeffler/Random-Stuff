@@ -28,7 +28,7 @@ Four Ponies:\
 		`P  `\
 		`  M`\
 		`P  `\
-		`P  `\
+		`P  `
 
 ## Body language
 
