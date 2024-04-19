@@ -63,3 +63,7 @@ There are several stages of severity for punishments, though these can also be g
 ### Rewards:
 
 Rewards are given out by the master/mistress and do not follow any rules.
+
+### Credits
+
+Inspired by Fedotia
