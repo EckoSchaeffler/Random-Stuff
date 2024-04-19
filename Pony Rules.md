@@ -8,6 +8,28 @@ Your master/mistress is not a telepath, so any emoting should be limited to acti
 - Always face your master/mistress, even if they are facing away from you.
 - Always follow your master/mistress when they go somewhere and keep close by them, no matter if they have taken your leash or not. Unless you have gotten an order to stay put
 
+### Following
+
+When following your master/mistress it depends on the number of other ponies around how you are expected to follow and how to stand behind your master/mistress.
+You WILL have to stay in easy groping distance to your master/mistress.
+
+One Pony: 
+		`P M`
+Two Ponies:
+		`P  `
+		`  M`
+		`P  `
+Three Ponies:
+		`P  `
+		`P M`
+		`P  `
+Four Ponies:
+		`P  `
+		`P  `
+		`  M`
+		`P  `
+		`P  `
+
 ## Body language
 
 ### Stomping
@@ -35,7 +57,7 @@ There are several stages of severity for punishments, though these can also be g
 - Level 2: Two to Five harsh slaps to the butt or breasts by either hand or crop, with each slap coinciding with a severe electroshock given by belt or collar.
 - Level 3: It is assumed that the pony will not learn without further punishment and additional to Level 2 punishments, the collar AND belt are set to randomly give severe electroshocks for a time.
 - Level 4: Similar to Level 3, but the randomly given electroshocks happen more often.
-- Level 5: Simular to Level 4, but the electroshocks will be coming at an even higher frequency.
+- Level 5: Similar to Level 4, but the electroshocks will be coming at an even higher frequency.
 - Level 6: Pray you will not get Level 6.
 
 ### Rewards:
