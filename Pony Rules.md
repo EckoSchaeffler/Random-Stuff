@@ -47,7 +47,7 @@ Stomping is one of the ways for communicating through body language.
 
 - If you need to go to the toilet, rub your legs together and make noises and then wait for permission to go to the toilet.
 - If RL is intruding, face away from your master/mistress and kneel on the floor.
-- if you are sleepy and need to go to bed, a pony can yawn.
+- If you are sleepy and need to go to bed, a pony can yawn.
 
 ## Punishment and Rewards
 
