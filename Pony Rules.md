@@ -1,7 +1,7 @@
 ## Emoting
 
 Do not use emoting/posing to cheat to get around communication limitations.
-Your master/mistress is not a telepath, so any emoting should be limited to actions and reactions, rather then inner thoughts.
+Your bridle doesnt grant telepathic powers, so any emoting should be limited to actions and reactions, rather then inner thoughts.
 
 ## General Orders
 
@@ -31,6 +31,8 @@ Four Ponies:\
 		`P  `
 
 ## Body language
+
+This is a ponies main way of communication and to express themselves, so it should feel free to be creative about it inside the limits that are given.
 
 ### Stomping
 
