@@ -1,5 +1,3 @@
-Certainly! Let's modify the character design to give Idu83 more individual freedom and agency, with Lady Kissa trusting and allowing her to act as she wishes most of the time.
-
 ### Background and History
 
 #### Lady Kissa
